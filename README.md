@@ -32,7 +32,7 @@ You can run this project **directly on Kaggle** with no installation required:
 
 | Original Image | Style Image | Stylized Result |
 |----------------|------------|----------------|
-| ![Original](examples/original.jpg) | ![Style](examples/style.jpg) | ![Result](examples/output.jpg) |
+| ![Original](examples/original.jpg) | ![Style](examples/style.jpg) | ![Result](examples/output.png) |
 
 *(Replace these images with your real examples from `examples/` folder.)*
 
